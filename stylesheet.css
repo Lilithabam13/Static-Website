@@ -1,0 +1,17 @@
+p {
+    font-family:'Times New Roman', Times;
+    color: white;
+    text-align: left;
+}
+
+.main-heading {
+    font-size: 30px;
+    color: blue;
+    text-align: left;
+}
+
+.sub-heading {
+    font-size: 20px;
+    color: blue;
+    text-align: left;
+}
